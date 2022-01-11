@@ -1,6 +1,6 @@
 # LineFollower_Semreh_Electronics
 
-BILL OF MATERIAL SEMREH
+Bill of Materials 💸
 
 | Comprado  | ID | Tipo | Modelo/Valor | Package | Quantidade |
 | :---: | :---: | :---: | :---: | :---: | :---: |
