@@ -3,9 +3,9 @@
 BILL OF MATERIAL SEMREH
 
 | Comprado  | ID | Tipo | Modelo/Valor | Package | Quantidade |
-| --- | --- | --- | --- | --- | --- |
-| **X** | :ESP 32: | :Microprocessador: |  |  | :1: |
-| **X** | :Sensor Direito, Sensor Esquerdo: | :Sensor Lateral: | :QTR-MD-02A: |  | :2: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **X** | ESP 32 | Microprocessador |  |  | 1 |
+| **X** | Sensor Direito, Sensor Esquerdo | Sensor Lateral | QTR-MD-02A |  | 2 |
 | **X** | Sensor | Sensor Array | QTR-8A |  | 1 | 
 | **X** | U1, U2 | Regulador Tensão | Mini-360 Step Down DC/DC |  | 2 |
 | **X** | Ponte H1 | Driver Motor | TB6612FNG |  | 1 |
