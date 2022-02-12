@@ -4,6 +4,7 @@
 
 ADC
 
+| Função | Portas |
 | :---: | :---: |
 | CLK | GPIO34 |
 | OUT ADC | GPIO32 |
@@ -12,12 +13,14 @@ ADC
 
 Laterais
 
+| Função | Portas |
 | :---: | :---: |
 | OUT Esquerdo | GPIO27 |
 | OUT Direito | GPIO35 |
 
 Driver Motor
 
+| Função | Portas |
 | :---: | :---: |
 | PWMA | GPIO2 |
 | PWMB | GPIO23 |
@@ -29,6 +32,7 @@ Driver Motor
 
 Encorder
 
+| Função | Portas |
 | :---: | :---: |
 | OUT Esquerdo A | GPIO15 |
 | OUT Esquerdo B | GPIO5 |
