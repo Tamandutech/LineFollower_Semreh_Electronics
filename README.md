@@ -2,7 +2,7 @@
 
 **Pinout**
 
-ADC
+**ADC**
 
 | Função | Portas |
 | :---: | :---: |
@@ -11,14 +11,14 @@ ADC
 | IN ADC | GPIO25 |
 | CS/SHDN | DGPIO6 |
 
-Laterais
+**Laterais**
 
 | Função | Portas |
 | :---: | :---: |
 | OUT Esquerdo | GPIO27 |
 | OUT Direito | GPIO35 |
 
-Driver Motor
+**Driver Motor**
 
 | Função | Portas |
 | :---: | :---: |
@@ -30,7 +30,7 @@ Driver Motor
 | IN Esquerdo 2 | GPIO22 |
 | STBY | GPIO17 |
 
-Encorder
+**Encorder**
 
 | Função | Portas |
 | :---: | :---: |
