@@ -1,5 +1,38 @@
 # LineFollower_Semreh_Electronics
 
+**Pinout**
+
+ADC
+
+| CLK | GPIO34 |
+| OUT ADC | GPIO32 |
+| IN ADC | GPIO25 |
+| CS/SHDN | DGPIO6 |
+
+Laterais
+
+| OUT Esquerdo | GPIO27 |
+| OUT Direito | GPIO35 |
+
+Driver Motor
+
+| PWMA | GPIO2 |
+| PWMB | GPIO23 |
+
+| IN Direito 1 | GPIO16 |
+| IN Direito 2 | GPIO4 |
+| IN Esquerdo 1 | GPIO21 |
+| IN Esquerdo 2 | GPIO22 |
+| STBY | GPIO17 |
+
+Encorder
+
+| OUT Esquerdo A | GPIO15 |
+| OUT Esquerdo B | GPIO5 |
+| OUT Direito A | GPIO19 |
+| OUT Direito B | GPIO18 |
+
+
 **Bill of Materials**
 
 | Comprado  | ID | Tipo | Modelo/Valor | Package | Quantidade |
