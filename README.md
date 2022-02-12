@@ -4,6 +4,7 @@
 
 ADC
 
+| :---: | :---: |
 | CLK | GPIO34 |
 | OUT ADC | GPIO32 |
 | IN ADC | GPIO25 |
@@ -11,14 +12,15 @@ ADC
 
 Laterais
 
+| :---: | :---: |
 | OUT Esquerdo | GPIO27 |
 | OUT Direito | GPIO35 |
 
 Driver Motor
 
+| :---: | :---: |
 | PWMA | GPIO2 |
 | PWMB | GPIO23 |
-
 | IN Direito 1 | GPIO16 |
 | IN Direito 2 | GPIO4 |
 | IN Esquerdo 1 | GPIO21 |
@@ -27,6 +29,7 @@ Driver Motor
 
 Encorder
 
+| :---: | :---: |
 | OUT Esquerdo A | GPIO15 |
 | OUT Esquerdo B | GPIO5 |
 | OUT Direito A | GPIO19 |
