@@ -9,7 +9,7 @@
 | CLK | GPIO34 |
 | OUT ADC | GPIO32 |
 | IN ADC | GPIO25 |
-| CS/SHDN | DGPIO6 |
+| CS/SHDN | DGPIO26 |
 
 **Laterais**
 
