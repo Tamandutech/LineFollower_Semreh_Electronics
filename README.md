@@ -55,3 +55,15 @@
 |  | SW1 | Switch ON/OFF | E-Switch EG1218 |  | 1 |
 |  | R1 | Resistor | 100Ω | R2010 | 1 |
 |  | Q1 | Mosfet | IRLML6402TRPBF | Micro3™ (SOT-23) | 1 |
+
+| ID | Tipo | Modelo/Valor | Quantidade| Comprado |
+| :---: | :---: | :---: | :---: | :---: |
+| ESP 32 SMD | Microcontrolador |  | 1 | S |
+| ADC | Converser Analógico Digital | MCP3008 SMD | 1 | N |
+| Sensor Frontal e Lateral | Sensores Refletância | QRE | ? | S |
+| MINI360 | Regulador de Tensão | MP2303 | 2 | S |
+| Motor Direito e Esquerdo | Motor | Pololu Micormotor HPCB 6V 15:1 | 2 | S |
+| Encorder Direito e Esquerdo | Encoder | Magnetic Encoder | 2 | S |
+|  | Switch ON/OFF | E-Switch EG1218 | 1 | N |
+| Resistores |
+| Capacitores |
