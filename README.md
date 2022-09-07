@@ -60,7 +60,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | ESP 32 SMD | Microcontrolador |  | 1 | S |
 | ADC | Converser Analógico Digital | MCP3008 SMD | 1 | N |
-| Sensor Frontal e Lateral | Sensores Refletância | QRE | ? | S |
+| Sensor Frontal e Lateral | Sensores Refletância | QRE1113GR | ? | S |
 | MINI360 | Regulador de Tensão | MP2303 | 2 | S |
 | Motor Direito e Esquerdo | Motor | Pololu Micormotor HPCB 6V 15:1 | 2 | S |
 | Encorder Direito e Esquerdo | Encoder | Magnetic Encoder | 2 | S |
