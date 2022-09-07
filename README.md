@@ -62,7 +62,7 @@
 | ADC | Converser Analógico Digital | MCP3008 SMD | 1 | N |
 | Sensor Frontal e Lateral | Sensores Refletância | QRE1113GR | ? | S |
 | MINI360 | Regulador de Tensão | MP2307DN | 2 | S |
-| Motor Direito e Esquerdo | Motor | Pololu Micormotor HPCB 6V 15:1 | 2 | S |
+| Motor Direito e Esquerdo | Motor | Pololu Micromotor HPCB 6V 15:1 | 2 | S |
 | Encorder Direito e Esquerdo | Encoder | Magnetic Encoder | 2 | S |
 |  | Switch ON/OFF | E-Switch EG1218 | 1 | N |
 | Resistores |
